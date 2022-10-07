@@ -1,0 +1,4 @@
+[32mINFO    [0m simple_example:test_litemall.py:45 上架商品返回的响应内容为{
+  "errno": 0,
+  "errmsg": "成功"
+}

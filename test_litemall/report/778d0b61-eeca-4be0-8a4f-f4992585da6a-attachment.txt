@@ -1,0 +1,9 @@
+[32mINFO    [0m simple_example:test_litemall.py:76 加入购物车返回的响应内容为{
+  "errno": 0,
+  "data": 29,
+  "errmsg": "成功"
+}
+[35mDEBUG   [0m simple_example:test_litemall.py:31 删除商品的响应信息为{
+  "errno": 0,
+  "errmsg": "成功"
+}
